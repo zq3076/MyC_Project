@@ -5,7 +5,7 @@
 main()
 {
 /*
-    //输出内容中最大数
+    //输出
 int a,b,c,max;
 
 printf("请输入三个INT数据:\n");
